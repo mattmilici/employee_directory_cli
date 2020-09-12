@@ -145,7 +145,7 @@ function internPrompts() {
             },
         ])
         .then(function(response) {
-            const intern = new Engineer(
+            const intern = new Intern(
                 response.name,
                 response.id,
                 response.email,
