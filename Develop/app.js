@@ -51,7 +51,7 @@ function managerPrompts() {
                 message: "What is their email?",
             },
             {
-                name: "officeNumer",
+                name: "officeNumber",
                 message: "What is their office Number?",
             },
             {

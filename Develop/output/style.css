@@ -1,0 +1,34 @@
+.team-heading {
+    background-color: lightseagreen;
+    color: white;
+    font-weight: bolder;
+}
+
+.employee-card {
+    border: 1px solid black;
+    margin: 2%;
+    transition: all 0.2s ease-in-out;
+}
+
+.employee-card:hover {
+    transform: scale(1.05);
+}
+
+.card-header {
+    background-color: lightseagreen;
+    color: white;
+    font-weight: bolder;
+}
+
+.card-body {
+    background-color: cornsilk;
+}
+
+.list-group-item {
+    border: 1px solid black;
+}
+
+.team-area {
+    display: flex;
+    flex-wrap: wrap;
+}
