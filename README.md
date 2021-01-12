@@ -1,6 +1,10 @@
 # Template Engine - Employee Summary
 
-One of the most important aspects of programming is writing code that is readable, reliable, and maintainable. This project allows you to build a Node CLI that takes in information about employees and generates an HTML webpage. The data generated then displays summaries for each person. We are also using JEST make sure the code is maintainable and passes all tests.
+One of the most important aspects of programming is writing code that is readable, reliable, and maintainable. This project allows you to build a Node CLI that takes in information about employees and generates an HTML webpage. The data generated then displays summaries for each person.
+
+## Technology Used
+
+We used the Node, JQuery, HTML, CSS to build, style, and add effects to our application. We are also using JEST make sure the code is maintainable and passes all tests.
 
 ![Generated Team Page](./Develop/images/img.png)
 
